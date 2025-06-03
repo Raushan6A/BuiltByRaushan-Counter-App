@@ -1,4 +1,4 @@
-# React Counter App
+# Counter App
 
 A simple React application that allows users to increment, decrement, and reset a counter value.
 
@@ -33,11 +33,7 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/react-counter-app.git
    cd react-counter-app
-   Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-# or
-yarn install
+2. **Install dependencies:**
+   npm install
+   # or
+   yarn install
