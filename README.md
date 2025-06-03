@@ -34,6 +34,6 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/react-counter-app.git
    cd react-counter-app
 2. **Install dependencies:**
-   npm install
+   <br>npm install
    # or
    yarn install
