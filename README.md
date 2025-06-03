@@ -31,7 +31,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/raushan6A/Counter-App.git
+   git clone https://github.com/Raushan6A/BuiltByRaushan-Counter-App
    cd Counter-App
 2. **Install dependencies:**
    <br>npm install
