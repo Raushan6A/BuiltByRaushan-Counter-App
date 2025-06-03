@@ -2,7 +2,7 @@
 
 A simple React application that allows users to increment, decrement, and reset a counter value.
 
-![Screenshot](./802861af-8284-44ef-bdbf-4a5aa9767e5f.png)
+![Screenshot](./UI.png)
 
 ## ✨ Features
 
